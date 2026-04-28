@@ -6,7 +6,7 @@
   "config_category": "census",
   "config_description": "Complete state-level restaurant data for Idaho. This dataset captures every active restaurant listing filtered by the Restaurants category group, providing comprehensive coverage for statewide market research. Includes ratings, reviews, sentiment data, and competitive metrics. Refreshed weekly.",
   "config_name": "All Restaurants in Idaho, US",
-  "export_job_id": "dc570891-1733-412e-b5b1-dc0d63785af2",
+  "export_job_id": "6c13ef94-bbde-4b35-b5c0-1f498826a354",
   "github_org": "Beamstation-Datasets",
   "id_short": 521140,
   "location_name": "Idaho",
@@ -14,9 +14,9 @@
   "repo_name": "all-restaurants-in-idaho-us-sample-521140",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/521140/beamstation_521140_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_pct": 9.99,
-  "sample_records": 292,
-  "sample_sha256": "9dd04eed6796f4b45c7f6ab070158afe7d0aa58fcfeb2cce7475a9634af32ccf",
-  "sample_size_bytes": 868141,
-  "total_records": 2924,
-  "updated_at": "2026-04-21T15:52:45.433858+00:00"
+  "sample_records": 425,
+  "sample_sha256": "f1666ce245dbe8ec9c5fa312c8db9334e9860879281232f0e94d586b7d6b1f86",
+  "sample_size_bytes": 1317218,
+  "total_records": 4253,
+  "updated_at": "2026-04-28T16:57:33.570234+00:00"
 }
