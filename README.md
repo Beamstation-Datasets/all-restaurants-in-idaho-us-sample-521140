@@ -1,6 +1,6 @@
 # All Restaurants in Idaho, US
 
-> Free BeamStation sample export with 425 rows and masked direct-contact fields.
+> Free BeamStation sample export with 452 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `521140` |
 | Location | Idaho |
 | Category | Restaurants |
-| Full dataset size | 4,253 records |
-| Free sample size | 425 records (9.99%) |
-| Last export | 2026-04-28T16:57:33.570234+00:00 |
+| Full dataset size | 4,523 records |
+| Free sample size | 452 records (9.99%) |
+| Last export | 2026-05-06T16:29:17.768417+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-idaho-us-sample-521140/releases/download/sample-latest/beamstation_521140_restaurants-us-id_SAMPLE_DIST.csv) |
 
 ## What is in this sample
