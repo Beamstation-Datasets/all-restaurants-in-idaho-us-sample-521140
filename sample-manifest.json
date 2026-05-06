@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6c13ef94-bbde-4b35-b5c0-1f498826a354",
+  "export_job_id": "b35bac6c-1237-44c0-982d-7e0c90c255e5",
   "id_short": 521140,
-  "published_at": "2026-04-28T19:21:21Z",
+  "published_at": "2026-05-06T19:11:21Z",
   "repo_name": "all-restaurants-in-idaho-us-sample-521140",
   "sample_asset_name": "beamstation_521140_restaurants-us-id_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/521140/beamstation_521140_restaurants-us-id_SAMPLE_DIST.csv",
-  "sample_records": 425,
-  "sample_sha256": "f1666ce245dbe8ec9c5fa312c8db9334e9860879281232f0e94d586b7d6b1f86",
-  "sample_size_bytes": 1317218,
-  "total_records": 4253
+  "sample_records": 452,
+  "sample_sha256": "8554b10e5836772761e0b0ebdf476b5003bbab971fcf4963d26e7e27541429cb",
+  "sample_size_bytes": 1486961,
+  "total_records": 4523
 }
